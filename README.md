@@ -2,7 +2,7 @@
 - 👀 I’m interested in C programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on linux stuff
-- 😄 Pronouns: He/Him/T
+- 😄 Pronouns: He/Him/They
 <!--- - ⚡ Fun fact: ...--->
 
 <!---
