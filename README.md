@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ducklord42
-- 👀 I’m interested in C programming
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on linux stuff
-- 😄 Pronouns: He/Him/They
+- Hi, I’m @Ducklord42
+- I’m interested in C programming
+- I’m currently learning win32
+- Pronouns: He/Him/They
 <!--- - ⚡ Fun fact: ...--->
 
 <!---
