@@ -1,7 +1,7 @@
 - Hi, I’m @Ducklord42
-- I’m interested in C programming
-- I’m currently learning win32
-- Pronouns: He/Him/They
+- I’m interested in C programming and systems programming in general
+- I’m currently learning zig and RayLib
+- Pronouns: He/Him
 <!--- - ⚡ Fun fact: ...--->
 
 <!---
