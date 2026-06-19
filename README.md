@@ -1,6 +1,7 @@
-- Hi, I’m @Ducklord42
+- I am writeonlymemory
 - I’m interested in C programming and systems programming in general
-- I’m currently learning zig and RayLib
+- I’m currently learning riscv assembly
+  I'm working on riscv emulator for fun
 - Pronouns: He/Him
 <!--- - ⚡ Fun fact: ...--->
 
